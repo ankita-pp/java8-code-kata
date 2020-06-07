@@ -1,0 +1,10 @@
+common/test/tool/entity/Item.class
+common/test/tool/dataset/DateAndTimes.class
+common/test/tool/annotation/Difficult.class
+common/test/tool/entity/Customer.class
+common/test/tool/annotation/Easy.class
+common/test/tool/util/AssertUtil.class
+common/test/tool/entity/OnlineShoppingMall.class
+common/test/tool/util/CollectorImpl.class
+common/test/tool/dataset/ClassicOnlineStore.class
+common/test/tool/entity/Shop.class
